@@ -26,3 +26,5 @@
 ## Questions for Mark and Kaila - 
 1) Should each planet be a different sound? Or should it be a set of sounds?
 2) Does each lesson/planet have a new activity? (Beat Machine/Simon Says/Memory Game)
+3) So we need stages within wach lesson? (i.e repetitions of the same activity)
+
